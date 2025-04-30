@@ -8,7 +8,7 @@ We are a digital product studio that solves complex challenges by developing web
 
 #### Where to Find Us
 
-<p>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
     <a href="https://www.miew.pt">
         <img src="../static/Miewton-icons.png" alt="Website" width="32" height="32" />
     </a>
@@ -25,7 +25,7 @@ We are a digital product studio that solves complex challenges by developing web
         <img src="../static/Miewton-icons-4.png" alt="Behance" width="32" height="32" />
     </a>
 
-</p>
+</div>
 
 ---
 #### Technologies We Love
