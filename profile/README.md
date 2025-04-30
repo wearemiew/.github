@@ -1,4 +1,4 @@
-  <img class="logo" src="../static/miew-banner.png" alt="Miew Banner"/>
+<img class="logo" src="../static/miew-banner.png" alt="Miew Banner"/>
 
 ### We build the future, one commit at a time.
 
@@ -8,23 +8,33 @@ We are a digital product studio that solves complex challenges by developing web
 
 #### Where to Find Us
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-    <a href="https://www.miew.pt" style="text-decoration: none !important;">
-        <img src="../static/Miewton-icons.png" alt="Website" width="32" height="32" />
+<p>
+    <a href="https://www.miew.pt">
+        <span style="text-decoration: none;">
+        <img src="../static/Miewton-icons.png" alt="Website" width="32" style="margin: 0 10px;"/>
+        </span>
     </a>
-    <a href="https://www.linkedin.com/company/miew/" style="text-decoration: none !important;">
-        <img src="../static/Miewton-icons-1.png" alt="LinkedIn" width="32" height="32" />
-    </a>
-    <a href="https://www.instagram.com/wearemiew/" style="text-decoration: none !important;">
-        <img src="../static/Miewton-icons-2.png" alt="Instagram" width="32" height="32" />
-    </a>
-    <a href="https://dribbble.com/wearemiew" style="text-decoration: none !important;">
-        <img src="../static/Miewton-icons-3.png" alt="dribbble" width="32" height="32" />
-    </a>
-    <a href="https://www.behance.net/miew/" style="text-decoration: none !important;">
-        <img src="../static/Miewton-icons-4.png" alt="Behance" width="32" height="32" />
-    </a>
-</div>
+  <a href="https://www.linkedin.com/company/miew/">
+    <span style="text-decoration: none;">
+      <img src="../static/Miewton-icons-1.png" alt="LinkedIn" width="32" style="margin: 0 10px;"/>
+    </span>
+  </a>
+  <a href="https://www.instagram.com/wearemiew/">
+    <span style="text-decoration: none;">
+      <img src="../static/Miewton-icons-2.png" alt="Instagram" width="32" style="margin: 0 10px;"/>
+    </span>
+  </a>
+  <a href="https://dribbble.com/miew">
+    <span style="text-decoration: none;">
+      <img src="../static/Miewton-icons-4.png" alt="Dribbble" width="32" style="margin: 0 10px;"/>
+    </span>
+  </a>
+  <a href="https://www.behance.net/miew">
+    <span style="text-decoration: none;">
+      <img src="../static/Miewton-icons-3.png" alt="Behance" width="32" style="margin: 0 10px;"/>
+    </span>
+  </a>
+</p>
 
 ---
 #### Technologies We Love
