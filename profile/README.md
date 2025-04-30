@@ -10,7 +10,7 @@ We are a digital product studio that solves complex challenges by developing web
 
 <p>
     <a href="https://www.miew.pt">
-        <img src="../static/Miewton-icons-3.png" alt="Website" width="32" height="32" />
+        <img src="../static/Miewton-icons.png" alt="Website" width="32" height="32" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/company/miew/">
@@ -20,6 +20,15 @@ We are a digital product studio that solves complex challenges by developing web
     <a href="https://www.instagram.com/wearemiew/">
         <img src="../static/Miewton-icons-2.png" alt="Instagram" width="32" height="32" />
     </a>
+    &nbsp;&nbsp;
+    <a href="https://dribbble.com/wearemiew">
+        <img src="../static/Miewton-icons-3.png" alt="dribbble" width="32" height="32" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.behance.net/miew/">
+        <img src="../static/Miewton-icons-4.png" alt="Behance" width="32" height="32" />
+    </a>
+
 </p>
 
 ---
