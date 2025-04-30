@@ -8,33 +8,23 @@ We are a digital product studio that solves complex challenges by developing web
 
 #### Where to Find Us
 
-<p>
-    <a href="https://www.miew.pt">
-        <span style="text-decoration: none !important;">
+<div>
+    <a href="https://www.miew.pt" style="display: inline-block">
         <img src="../static/Miewton-icons.png" alt="Website" width="32" style="margin: 0 10px;"/>
-        </span>
     </a>
   <a href="https://www.linkedin.com/company/miew/">
-    <span style="text-decoration: unset;">
       <img src="../static/Miewton-icons-1.png" alt="LinkedIn" width="32" style="margin: 0 10px;"/>
-    </span>
-  </a>
+    </a>
   <a href="https://www.instagram.com/wearemiew/">
-    <span style="text-decoration: none;">
       <img src="../static/Miewton-icons-2.png" alt="Instagram" width="32" style="margin: 0 10px;"/>
-    </span>
-  </a>
+    </a>
   <a href="https://dribbble.com/miew">
-    <span style="text-decoration: none;">
       <img src="../static/Miewton-icons-4.png" alt="Dribbble" width="32" style="margin: 0 10px;"/>
-    </span>
-  </a>
+    </a>
   <a href="https://www.behance.net/miew">
-    <span style="text-decoration: none;">
       <img src="../static/Miewton-icons-3.png" alt="Behance" width="32" style="margin: 0 10px;"/>
-    </span>
-  </a>
-</p>
+    </a>
+</div>
 
 ---
 #### Technologies We Love
