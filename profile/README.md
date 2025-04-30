@@ -10,12 +10,12 @@ We are a digital product studio that solves complex challenges by developing web
 
 <p>
     <a href="https://www.miew.pt">
-        <span style="text-decoration: none;">
+        <span style="text-decoration: none !important;">
         <img src="../static/Miewton-icons.png" alt="Website" width="32" style="margin: 0 10px;"/>
         </span>
     </a>
   <a href="https://www.linkedin.com/company/miew/">
-    <span style="text-decoration: none;">
+    <span style="text-decoration: unset;">
       <img src="../static/Miewton-icons-1.png" alt="LinkedIn" width="32" style="margin: 0 10px;"/>
     </span>
   </a>
