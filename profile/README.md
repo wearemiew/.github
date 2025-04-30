@@ -12,16 +12,16 @@ We are a digital product studio that solves complex challenges by developing web
     <a href="https://www.miew.pt" style="display: inline-block">
         <img src="../static/Miewton-icons.png" alt="Website" width="32" style="margin: 0 10px;"/>
     </a>
-  <a href="https://www.linkedin.com/company/miew/">
+  <a href="https://www.linkedin.com/company/miew/" style="display: inline-block">
       <img src="../static/Miewton-icons-1.png" alt="LinkedIn" width="32" style="margin: 0 10px;"/>
     </a>
-  <a href="https://www.instagram.com/wearemiew/">
+  <a href="https://www.instagram.com/wearemiew/" style="display: inline-block">
       <img src="../static/Miewton-icons-2.png" alt="Instagram" width="32" style="margin: 0 10px;"/>
     </a>
-  <a href="https://dribbble.com/miew">
+  <a href="https://dribbble.com/miew" style="display: inline-block">
       <img src="../static/Miewton-icons-4.png" alt="Dribbble" width="32" style="margin: 0 10px;"/>
     </a>
-  <a href="https://www.behance.net/miew">
+  <a href="https://www.behance.net/miew" style="display: inline-block">
       <img src="../static/Miewton-icons-3.png" alt="Behance" width="32" style="margin: 0 10px;"/>
     </a>
 </div>
