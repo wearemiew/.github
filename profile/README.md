@@ -7,24 +7,11 @@ We are a digital product studio that solves complex challenges by developing web
 ---
 
 #### Where to Find Us
-
-<div>
-    <a href="https://www.miew.pt" style="display: inline-block">
-        <img src="../static/Miewton-icons.png" alt="Website" width="32" style="margin: 0 10px;"/>
-    </a>
-  <a href="https://www.linkedin.com/company/miew/" style="display: inline-block">
-      <img src="../static/Miewton-icons-1.png" alt="LinkedIn" width="32" style="margin: 0 10px;"/>
-    </a>
-  <a href="https://www.instagram.com/wearemiew/" style="display: inline-block">
-      <img src="../static/Miewton-icons-2.png" alt="Instagram" width="32" style="margin: 0 10px;"/>
-    </a>
-  <a href="https://dribbble.com/miew" style="display: inline-block">
-      <img src="../static/Miewton-icons-4.png" alt="Dribbble" width="32" style="margin: 0 10px;"/>
-    </a>
-  <a href="https://www.behance.net/miew" style="display: inline-block">
-      <img src="../static/Miewton-icons-3.png" alt="Behance" width="32" style="margin: 0 10px;"/>
-    </a>
-</div>
+[![Website](../static/Miewton-icons.png)](https://www.miew.pt) 
+[![LinkedIn](../static/Miewton-icons-1.png)](https://www.linkedin.com/company/miew/) 
+[![Instagram](../static/Miewton-icons-2.png)](https://www.instagram.com/wearemiew/) 
+[![Dribbble](../static/Miewton-icons-3.png)](https://dribbble.com/miew) 
+[![Behance](../static/Miewton-icons-4.png)](https://www.behance.net/miew) 
 
 ---
 #### Technologies We Love
