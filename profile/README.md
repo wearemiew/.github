@@ -7,7 +7,7 @@ We are a digital product studio that solves complex challenges by developing web
 ---
 
 #### Where to Find Us
-[![Substack](https://github.com/wearemiew/.github/raw/main/static/Miewton-icons.png)](https://www.miew.io) 
+[![Substack](https://github.com/wearemiew/.github/raw/main/static/Miewton-icons.png)](https://miewproduct.substack.com/) 
 [![LinkedIn](https://github.com/wearemiew/.github/raw/main/static/Miewton-icons-1.png)](https://www.linkedin.com/company/miew/) 
 [![Instagram](https://github.com/wearemiew/.github/raw/main/static/Miewton-icons-2.png)](https://www.instagram.com/wearemiew/) 
 [![Dribbble](https://github.com/wearemiew/.github/raw/main/static/Miewton-icons-3.png)](https://dribbble.com/wearemiew) 
